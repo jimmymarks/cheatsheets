@@ -1,0 +1,21 @@
+1234567890-= (lowercase row)
+!@#$%^&*()_+ (uppercase row)
+¡™£¢∞§¶•ªº–≠ (lowercase alt row)
+⁄€‹›ﬁﬂ‡°·‚—± (uppercase alt row)
+
+
+qwertyuiop[]\(lowercase row)
+QWERTYUIOP{}|(uppercase row)
+œ∑´®†¥¨ˆøπ“‘«(lowercase alt row)
+Œ„´‰ˇÁ¨ˆØ∏”’»(uppercase alt row)
+
+asdfghjkl;’  (lowercase row)
+ASDFGHJKL:”  (uppercase row)
+åß∂ƒ©˙∆˚¬…æ  (lowercase alt row)
+ÅÍÎÏ˝ÓÔÒÚÆ  (uppercase alt row)
+
+zxcvbnm,./   (lowercase row)
+ZXCVBNM<>?   (uppercase row)
+Ω≈ç√∫˜µ≤≥÷   (lowercase alt row)
+¸˛Ç◊ı˜Â¯˘¿   (uppercase alt row)
+
